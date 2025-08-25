@@ -68,9 +68,5 @@ Este proyecto busca demostrar habilidades en:
 * **Modelado y visualización con Power BI**.
 * **Comunicación de insights clave** para la toma de decisiones empresariales.
 
----
-
-## 📷 Vista Previa
-
 
 
